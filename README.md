@@ -2,7 +2,7 @@
 
 A classic Rock-Paper-Scissors game built with simple HTML, CSS, and JavaScript. This project lets you play against the computer in a clean, straightforward interface.
 
-![Game Screenshot](https://i.imgur.com/3vC81bK.png)
+ <img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/7e3fc157-4d2b-47d8-9655-dfe04eb1c781" />
 
 ## ✨ Features
 
